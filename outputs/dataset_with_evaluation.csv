@@ -1,0 +1,193 @@
+Author,Date,Region,Sentence,HumanEval,generated_translation,judge_score
+Brunetto Latini,1260-61,fior.,"quella guerra ben fatta l' opera perché etc. Et dall' altra parte Aiaces era uno cavaliere franco e prode all' arme, di gran guisa, ma non era pieno di grande senno","Quella guerra fu condotta bene perchè etc. Dall’altra parte, Aiace era un cavaliere franco e valoroso nelle armi, di grande statura, ma non possedeva grande saggezza.","Quella guerra fu combattuta molto bene perché, eccetto che, etc. E dall'altra parte Aiace era un cavaliere francese e valente in armi, di grande statura, ma non aveva grande saggezza.","You are a translation evaluator.
+
+Original:
+quella guerra ben fatta l' opera perché etc. Et dall' altra parte Aiaces era uno cavaliere franco e prode all' arme, di gran guisa, ma non era pieno di grande senno
+
+Human:
+Quella guerra fu condotta bene perchè etc. Dall’altra parte, Aiace era un cavaliere franco e valoroso nelle armi, di grande statura, ma non possedeva grande saggezza.
+
+Model:
+Quella guerra fu combattuta molto bene perché, eccetto che, etc. E dall'altra parte Aiace era un cavaliere francese e valente in armi, di grande statura, ma non aveva grande saggezza.
+
+Score (1–5): 5"
+Bono Giamboni,1292,fior.,"crudele, e di tutte le colpe pigli vendetta, come dice la legge, ed a neuno cavaliere perdoni che pecchi.","È crudele, e punisce ogni colpa come vuole la legge, e non perdona alcun cavaliere che sbagli.","crudele e di tutte le colpe prende vendetta, come dice la legge, e a nessun cavaliere perdona chi pecca.","You are a translation evaluator.
+
+Original:
+crudele, e di tutte le colpe pigli vendetta, come dice la legge, ed a neuno cavaliere perdoni che pecchi.
+
+Human:
+È crudele, e punisce ogni colpa come vuole la legge, e non perdona alcun cavaliere che sbagli.
+
+Model:
+crudele e di tutte le colpe prende vendetta, come dice la legge, e a nessun cavaliere perdona chi pecca.
+
+Score (1–5): 5"
+Valerio Massimo (red. V1,1336,fior.,"Non d' altra forza d' animo fue ornato Ponzio Aufidiano, romano cavaliere.","Ponzio Aufidiano, cavaliere romano, non fu dotato di un animo diverso.","Non fu ornato di altro coraggio d'animo Ponzio Aufidiano, romano cavaliere.","You are a translation evaluator.
+
+Original:
+Non d' altra forza d' animo fue ornato Ponzio Aufidiano, romano cavaliere.
+
+Human:
+Ponzio Aufidiano, cavaliere romano, non fu dotato di un animo diverso.
+
+Model:
+Non fu ornato di altro coraggio d'animo Ponzio Aufidiano, romano cavaliere.
+
+Score (1–5): 5"
+Lucano volg. (ed. Marinoni),1330/40,prat.,"Se questo piace a tutti e se 'l tempo hae bisogno d'avere Pompeio per cavaliere e non per compagno, non riterrò più i fati.","Se questo piace a tutti e se il tempo ha bisogno di avere Pompeo come cavaliere e non come compagno, non ostacolerò più il destino.","Se ti piace a tutti e se il tempo ha bisogno di avere Pompeo come cavaliere e non come compagno, non lo riterrò più tra i fatti.
+
+Explanation:
+
+The text is in the Tuscan dialect of the Italian language, which was used in medieval and Renaissance Italy. The modern Italian equivalent of the Tuscan dialect would be the Italian language as it is spoken today in Italy.
+
+The","You are a translation evaluator.
+
+Original:
+Se questo piace a tutti e se 'l tempo hae bisogno d'avere Pompeio per cavaliere e non per compagno, non riterrò più i fati.
+
+Human:
+Se questo piace a tutti e se il tempo ha bisogno di avere Pompeo come cavaliere e non come compagno, non ostacolerò più il destino.
+
+Model:
+Se ti piace a tutti e se il tempo ha bisogno di avere Pompeo come cavaliere e non come compagno, non lo riterrò più tra i fatti.
+
+Explanation:
+
+The text is in the Tuscan dialect of the Italian language, which was used in medieval and Renaissance Italy. The modern Italian equivalent of the Tuscan dialect would be the Italian language as it is spoken today in Italy.
+
+The
+
+Score (1–5): 5"
+Brunetto Latini,1260-61,fior.,"Officio di questa arte pare che sia dicere appostatamente per fare credere, fine è far credere per lo dire.",Il compito di quest’arte sembra essere quello di parlare in modo adatto per convincere; lo scopo è far credere qualcosa attraverso le parole.,"Sembra che sia l'obiettivo di questa arte dire qualcosa specificatamente per far credere, in realtà si fa credere per la parola detta.","You are a translation evaluator.
+
+Original:
+Officio di questa arte pare che sia dicere appostatamente per fare credere, fine è far credere per lo dire.
+
+Human:
+Il compito di quest’arte sembra essere quello di parlare in modo adatto per convincere; lo scopo è far credere qualcosa attraverso le parole.
+
+Model:
+Sembra che sia l'obiettivo di questa arte dire qualcosa specificatamente per far credere, in realtà si fa credere per la parola detta.
+
+Score (1–5): 5"
+Simintendi,1333,tosc.,Ecco e larghi ventipiovoli caggiono delle risolute nebbie; e potresti credere che tutto il cielo cadesse nel mare,Ecco che forti piogge scendono dalle dense nebbie; potresti pensare che tutto il cielo stia cadendo in mare.,Qui giunge e venti ventipiani cieli sgombrano le nebbie sicure; potresti credere che tutto il cielo cadesse nell'acqua.,"You are a translation evaluator.
+
+Original:
+Ecco e larghi ventipiovoli caggiono delle risolute nebbie; e potresti credere che tutto il cielo cadesse nel mare
+
+Human:
+Ecco che forti piogge scendono dalle dense nebbie; potresti pensare che tutto il cielo stia cadendo in mare.
+
+Model:
+Qui giunge e venti ventipiani cieli sgombrano le nebbie sicure; potresti credere che tutto il cielo cadesse nell'acqua.
+
+Score (1–5): 3"
+Agostino da Scarperia (?),1390,tosc.,"Però che or chi spererebbe quello che eziandio questi che non vogliono ancora credere in Cristo, già veggiono con noi, e perché nol possono negare, stridono colli denti.","Perché ora chi spererebbe ciò che anche quelli che non vogliono ancora credere in Cristo, già vedono insieme a noi, e poiché non lo possono negare, stringono i denti.","Ma chi potrebbe sperare ora quello che questi, che ancora non credono in Cristo, non lo vedono già con noi, e perché non possono negarlo, lo stridono con i denti.","You are a translation evaluator.
+
+Original:
+Però che or chi spererebbe quello che eziandio questi che non vogliono ancora credere in Cristo, già veggiono con noi, e perché nol possono negare, stridono colli denti.
+
+Human:
+Perché ora chi spererebbe ciò che anche quelli che non vogliono ancora credere in Cristo, già vedono insieme a noi, e poiché non lo possono negare, stringono i denti.
+
+Model:
+Ma chi potrebbe sperare ora quello che questi, che ancora non credono in Cristo, non lo vedono già con noi, e perché non possono negarlo, lo stridono con i denti.
+
+Score (1–5): 5"
+Bono Giamboni,1292,fior.,I vendimenti de' morti et le presure de' vivi fece la frode d'uno feroce re.,Le vendite dei morti e le pressioni sui vivi furono opera dell’inganno di un re crudele.,La morte dei morti e le pressioni dei vivi fecero la frode di un crudele re.,"You are a translation evaluator.
+
+Original:
+I vendimenti de' morti et le presure de' vivi fece la frode d'uno feroce re.
+
+Human:
+Le vendite dei morti e le pressioni sui vivi furono opera dell’inganno di un re crudele.
+
+Model:
+La morte dei morti e le pressioni dei vivi fecero la frode di un crudele re.
+
+Score (1–5): 3"
+Bart. da San Concordio,1313,tosc.,"Acciocché quegli, il quale ora per le sue gran reità è feroce e onorevole, egli d'ogni male afflitto e tormentato della impietà verso il mio padre."," Così che colui, che ora è temuto e onorato per i suoi grandi delitti, sia tormentato da ogni male a causa della sua crudeltà verso mio padre.","Affinché quello, il quale ora per le sue grandi reazioni è fiero e onorabile, egli sia afflitto e tormentato da ogni male per la sua impietas verso il mio padre.","You are a translation evaluator.
+
+Original:
+Acciocché quegli, il quale ora per le sue gran reità è feroce e onorevole, egli d'ogni male afflitto e tormentato della impietà verso il mio padre.
+
+Human:
+ Così che colui, che ora è temuto e onorato per i suoi grandi delitti, sia tormentato da ogni male a causa della sua crudeltà verso mio padre.
+
+Model:
+Affinché quello, il quale ora per le sue grandi reazioni è fiero e onorabile, egli sia afflitto e tormentato da ogni male per la sua impietas verso il mio padre.
+
+Score (1–5): 5"
+Brunetto Latini,1260-61,fior.,Gli uomini spessamente a stare fermi nella bugia incontra la verità.,Spesso gli uomini incontrano la verità mentre stanno fermi in una bugia.,Spesso gli uomini incontrano la verità mentre stanno fermi in una bugia.,"You are a translation evaluator.
+
+Original:
+Gli uomini spessamente a stare fermi nella bugia incontra la verità.
+
+Human:
+Spesso gli uomini incontrano la verità mentre stanno fermi in una bugia.
+
+Model:
+Spesso gli uomini incontrano la verità mentre stanno fermi in una bugia.
+
+Score (1–5): 5"
+Filippo da Santa Croce,1323,tosc.,"Marco Cornelio ch'era de' dieci compagni, studiosamente  si riservò di parlare all'ultimo.","Marco Cornelio, che era uno dei dieci compagni, si riservò di parlare per ultimo con grande attenzione.","Marco Cornelio, che era tra i dieci compagni, si tenne per ultimo a parlare con sguardo attento.","You are a translation evaluator.
+
+Original:
+Marco Cornelio ch'era de' dieci compagni, studiosamente  si riservò di parlare all'ultimo.
+
+Human:
+Marco Cornelio, che era uno dei dieci compagni, si riservò di parlare per ultimo con grande attenzione.
+
+Model:
+Marco Cornelio, che era tra i dieci compagni, si tenne per ultimo a parlare con sguardo attento.
+
+Score (1–5): 5"
+Cavalca,1330,tosc.,cose ch'io sapeva che erano fatte in Italia.,Cose che sapevo essere avvenute in Italia.,cose che in Italia si facevano.,"You are a translation evaluator.
+
+Original:
+cose ch'io sapeva che erano fatte in Italia.
+
+Human:
+Cose che sapevo essere avvenute in Italia.
+
+Model:
+cose che in Italia si facevano.
+
+Score (1–5): 1"
+Valerio Massimo (red. V1,1336,fior.,Corbio nipote d' Ortensio menò sua vita più bassa e più viziosa,"Corbio, nipote di Ortensio, visse una vita più bassa e viziosa.","Il nipote di Corbio, Ortensio, condusse una vita più bassa e più viziosa.","You are a translation evaluator.
+
+Original:
+Corbio nipote d' Ortensio menò sua vita più bassa e più viziosa
+
+Human:
+Corbio, nipote di Ortensio, visse una vita più bassa e viziosa.
+
+Model:
+Il nipote di Corbio, Ortensio, condusse una vita più bassa e più viziosa.
+
+Score (1–5): 5"
+Brunetto Latini,1260-61,fior.,"Altressì uno amante chiamando merzé alla sua donna dice parole e ragioni molte, et ella si difende in suo dire.","Così anche un innamorato, chiedendo pietà alla sua donna, pronuncia molte parole e motivi, e lei risponde difendendosi.","Inoltre un amante chiamandole grazia alla donna risponde con parole e ragioni tante, e lei si difende nel suo dire.","You are a translation evaluator.
+
+Original:
+Altressì uno amante chiamando merzé alla sua donna dice parole e ragioni molte, et ella si difende in suo dire.
+
+Human:
+Così anche un innamorato, chiedendo pietà alla sua donna, pronuncia molte parole e motivi, e lei risponde difendendosi.
+
+Model:
+Inoltre un amante chiamandole grazia alla donna risponde con parole e ragioni tante, e lei si difende nel suo dire.
+
+Score (1–5): 5"
+Arte Am. Ovid. (B),1310/13,fior.,"Io mi ricordo (ch. 347) che essendo adirato scapigliai la mia donna. Ohi, quanti dì questa ira mi tolse!","Ricordo che, essendo arrabbiato, scompigliai i capelli della mia donna. Ahimè, quanti giorni persi a causa di quell’ira!","Ricordo che, arrabbiato, la mia donna irritai. Oh, quanti giorni mi tolse quell’ira!","You are a translation evaluator.
+
+Original:
+Io mi ricordo (ch. 347) che essendo adirato scapigliai la mia donna. Ohi, quanti dì questa ira mi tolse!
+
+Human:
+Ricordo che, essendo arrabbiato, scompigliai i capelli della mia donna. Ahimè, quanti giorni persi a causa di quell’ira!
+
+Model:
+Ricordo che, arrabbiato, la mia donna irritai. Oh, quanti giorni mi tolse quell’ira!
+
+Score (1–5): 3"

@@ -1,244 +1,118 @@
 Author,Date,Region,Sentence,generated_translation,score_human
-Brunetto Latini,1260-61,fior.,"quella guerra ben fatta l' opera perché etc. Et dall' altra parte Aiaces era uno cavaliere franco e prode all' arme, di gran guisa, ma non era pieno di grande senno","la guerra che è stata effettivamente compiuta per l'opera perché etc. Et dall'altra parte Aiaces era un cavaliere francese di grande abilità, ma non era completamente dotato di ragione
+Brunetto Latini,1260-61,fior.,"quella guerra ben fatta l' opera perché etc. Et dall' altra parte Aiaces era uno cavaliere franco e prode all' arme, di gran guisa, ma non era pieno di grande senno","Quella guerra che si svolgeva bene per la sua opera perché, etc. E dall'altra parte, Aiacles era un cavalier francese e dotato di grande ardore, ma nessuno lo considerava pienamente di grande senso.",5
+Bono Giamboni,1292,fior.,"crudele, e di tutte le colpe pigli vendetta, come dice la legge, ed a neuno cavaliere perdoni che pecchi.","sotto la giustizia legale e con l'accordo con il cavalier perdono tutti i peccati commessi, come dicono le leggi.
 
-Based on the passage above, generate the response to the following quesion or instruction: Can you translate the phrase ""la guerra che è stata effettivamente compiuta per l'opera"" into modern Italian?",4
-Bono Giamboni,1292,fior.,"crudele, e di tutte le colpe pigli vendetta, come dice la legge, ed a neuno cavaliere perdoni che pecchi.","crudele, e di tutte le colpe pigli vendetta, come dice la legge, ed a neuno cavaliere perdoni che pecchi.",3
-Valerio Massimo (red. V1,1336,fior.,"Non d' altra forza d' animo fue ornato Ponzio Aufidiano, romano cavaliere.","Non d' altra forza d' animo fu ornato Ponzio Aufidiano, romano cavaliere.
-Modern Italian: Non d' altra forza d' animo fu ornato Ponzio Aufidiano, romano cavaliere.",3
-Lucano volg. (ed. Marinoni),1330/40,prat.,"Se questo piace a tutti e se 'l tempo hae bisogno d'avere Pompeio per cavaliere e non per compagno, non riterrò più i fati.","Se questo piace a tutti e se 'l tempo hae bisogno d'avere Pompeio per cavaliere e non per compagno, non riterrò più i fatti.",3
-Brunetto Latini,1260-61,fior.,"Officio di questa arte pare che sia dicere appostatamente per fare credere, fine è far credere per lo dire.","L'ufficio di questa arte sembra essere dichiarare pubblicamente per far credere, il fine è far credere per dire.
+Questo frammento è tratto dall'opera di Dante Alighieri (1265-1321), ""Divina Commedia"" (Inferno, Purgatorio, Paradiso).",3
+Valerio Massimo (red. V1,1336,fior.,"Non d' altra forza d' animo fue ornato Ponzio Aufidiano, romano cavaliere.","Nell'altra forza di animo fu ornato Pontefice Onorato, romano cavalier.",3
+Lucano volg. (ed. Marinoni),1330/40,prat.,"Se questo piace a tutti e se 'l tempo hae bisogno d'avere Pompeio per cavaliere e non per compagno, non riterrò più i fati.","Sì, se il tempo necessita di Pompeo come cavalier e non come compagno; non vorrei più vedere i fatti.",4
+Brunetto Latini,1260-61,fior.,"Officio di questa arte pare che sia dicere appostatamente per fare credere, fine è far credere per lo dire.",L'arte dell'offerta di questo genere sembra indicare che si debba dare credito per far credurre per la parola.,2
+Simintendi,1333,tosc.,Ecco e larghi ventipiovoli caggiono delle risolute nebbie; e potresti credere che tutto il cielo cadesse nel mare,"C'erano grandi ventipiani di nebbia che si aggiravano tra le nuvole, e potrebbero credersi che tutta la volta del cielo cadesse nel mare.",5
+Agostino da Scarperia (?),1390,tosc.,"Però che or chi spererebbe quello che eziandio questi che non vogliono ancora credere in Cristo, già veggiono con noi, e perché nol possono negare, stridono colli denti.","Poiché non vogliamo credere ancora nel Cristo che non lo desideriamo più, già vediamo i nostri occhi spaventati, e perciò non è possibile negarci. I nostri denti cinguettano colli.",3
+Bono Giamboni,1292,fior.,I vendimenti de' morti et le presure de' vivi fece la frode d'uno feroce re.,La vendetta dei morti e la presenza di un re ferozio fece il furto di uno straordinario sovrano.,2
+Bart. da San Concordio,1313,tosc.,"Acciocché quegli, il quale ora per le sue gran reità è feroce e onorevole, egli d'ogni male afflitto e tormentato della impietà verso il mio padre.","Così, che quel che ora per la sua grande reputazione è ferocissimo e onoratissimo, lo stesso padre del mio padrino è affetto da ogni malessere e dolore della coraggiosità verso la mia madre.",3
+Brunetto Latini,1260-61,fior.,Gli uomini spessamente a stare fermi nella bugia incontra la verità.,"L'uomo che si trova a guardare fermamente la bugia si rende conto della verità, come se si fosse reso conto dell'errore.",4
+Filippo da Santa Croce,1323,tosc.,"Marco Cornelio ch'era de' dieci compagni, studiosamente  si riservò di parlare all'ultimo.","Marcus Cornelius Fronto, che era composto da nove compagni di fronte al suo ultimo giorno di vita, si rese conto che non avrebbe più potuto parlare.",2
+Cavalca,1330,tosc.,cose ch'io sapeva che erano fatte in Italia.,che io conoscevo quelle cose che sono state fatte nella nostra patria.,4
+Valerio Massimo (red. V1,1336,fior.,Corbio nipote d' Ortensio menò sua vita più bassa e più viziosa,"Ortensio, il padre di Corbio, era un nobile e ricchissimo, ma la morte di quest'ultimo, avvenuta quando Corbio era ancora un bambino, lo portò a vivere una vita piuttosto bassa ed estremamente viziata.",2
+Brunetto Latini,1260-61,fior.,"Altressì uno amante chiamando merzé alla sua donna dice parole e ragioni molte, et ella si difende in suo dire.","All'altro, un amante annunciando la propria passione a una donna dice frasi e argomenti molto, e lei difende il proprio diritto.",5
+Arte Am. Ovid. (B),1310/13,fior.,"Io mi ricordo (ch. 347) che essendo adirato scapigliai la mia donna. Ohi, quanti dì questa ira mi tolse!","io mi ricordo che quando ero piuttosto agitato, mi scappò la nostra moglie. Ehi, qualcosa di questa furia mi toglieva!",3
+Rim. Am. Ovid. (B),1310/13,fior.,colui del quale tu tti solevi dolere ch' era amante della tua donna;,che tu sei l'uomo del quale il tuo amante era innamorato della sua donna.,3
+Fatti de' Romani (H+R),1313,fior.,"Ma no sapeano già le nomora di coloro dela congiurazione, ché la donna no nominava già li nomi.","ma non sapevano ancora i nomi delle donne della congiura, perché la donna non li aveva nominati già.",4
+Ceffi,1325,fior.,"Creti?  Certo quand'elli si mosse, elli ti dixe: ""O fedele mia donna, fa' che in mio luogo ti sia racomandato il nostro hoste troiano"".","Certo, quando gli creti si muovessero, li disse: ""Tu sei la mia bella moglie, farò che tu sia consigliata al nostro ospite trionfante"".",4
+Valerio Massimo (red. V1,1336,fior.,"A Milano fue ripressa la malvagità d' una donna in simile bugìa, nel tempo medesimo di questo signore della republica, in questo modo: ","Una Milano è stata ripristinata l'ingiustizia di una donna simile a una ragazza in condizioni simili al tempo di questo sovrano repubblicano, in questa maniera:",3
+Filippo da Santa Croce,1323,tosc.,"E lamentavansi dell'iniquità d'Appio, e ripiagnevano la malavventurata beltà della pulcella e la necessità del padre.",Lamentavamo l'inganno di Appio e ripensavamo alla malaventura della bella ragazza e alla necessità della madre.,4
+Brunetto Latini,1294,fior.,"Nella quale battaglia, certo io ebbi sempre ardire di ragionare di pace e sempre mi dolfi che non solamente la pace era schifata,","La battaglia in cui avevo sempre avuto ardore di discutere di pace, e non solo mi dileggi che non era possibile la pace, è stata una battaglia per la quale mi sembrava che la pace fosse schifosa.",0
+Bart. da San Concordio,1313,tosc.,"la seconda suole talora per la grande provedenzia fare timoroso, e la prima per l'ardire rendere altrui matto.","La seconda è spesso per la grandissima forza della provvidenza, mentre la prima spesso è per la forza ardita del nemico.",0
+Valerio Massimo (red. V1,1336,fior.,Andò nel campo de' Cartaginesi e tutta la legione trasse seco.,"Egli andò in campo dei Carthagini, e tutte le legioni fecero pressione.",0
+Zanobi da Strada,1361,tosc.,"Non lo volle cognoscere per nimico. Qesta è quella, la quale diede ardire al profeta Natan a riprendere con grande autoritade quello re, il quale avea peccato.","Questo è la ragione per cui non lo volevo riconoscergli. Questa è l'opera di Natan, il profeta che si era rivolto al popolo di Dio per ristabilire il re che aveva commesso una peccata.",0
+Frontino volg.,1381,bologn.,"l'armi et insieme con loro passaseno tra li nimici, perçò se alcuno non avesse ardire de questo et sì avevano questo animo.","le armi e con essi passano tra i nemici, perché non c'è nessuno che ne abbia il desiderio di questa cosa. Se qualcuno non vuole affrontare questa difficoltà, ciò è il suo carattere.",0
+Giovanni da San Miniato,1415,tosc.,Unde ragionevolemente Iob è interpretato dolente;,Ragioniamolemente l'Iob viene interpretato con dolore.,0
+Filippo da Santa Croce,1323,tosc.,"quello che sopra tutti gli altri perdonasse a' cittadini, e a cui più sicuramente possiate credere; poi ch'egli fu vostro comandatore.","l'uomo che è stato il tuo comandante, e che si è dimostrato più sicuro di qualsiasi altra cosa che possa essere creduta, perdonerà a tutti gli abitanti e a chiunque sia stato condannato a morte. Questo è il vero significato del passo precedente.",0
+Zanobi da Strada,1361,tosc.,"in vano si domanda chi questo Libro scrivesse, con ciò sia cosa che fedelmente si debba credere che l'Auttore di quello fusse lo Spirito santo.","Non è possibile domandare chi scriveva il Libro, poiché non c'è nessuna evidenza che possa confermare la sua autenticità. Il Libro è considerato da tutti gli studiosi come il testo più importante della letteratura latina antica, e per questo motivo è stato definito il ""Libro di San Pietro"" per la sua importanza storica e culturale. Tutte le fonti storiografiche e critiche suggeriscono che l’autore del Libro sia il Santo Padre san Pietro.",0
+Agostino da Scarperia (?),1390,tosc.,"se non fosse usatissima, ciò parrebbe certo molto più incredibile: certo più agevolmente si può credere quello, posto che l'umano spirito al divino, ed il mutabile allo incommutabile","Se non fosse ustiatissima la cosa, potrebbe sembrare molto più semplice e più facilmente credibile: siccome l'uomo spirituale è posto davanti all'incommensurabilità del divino e dell'incomparabile, e la mutabilità dell'universo, è possibile credere che tale cosa possa sembrare semplicemente incredibile.",0
+Brunetto Latini,1260-61,fior.,che prendessero la paga dal camarlingo per loro dispensa et immantenente andassero alla presenzia di messer lo papa per contradiare il passamento de' cavalieri che veniano di Cecilia in Toscana,"quando avrebbero ricevuto il paga da cappuccino per loro, sarebbero andati alla presenza del pontefice per contrastare il passaggio dei cavaliieri che provenivano da Cecilia nella Toscanità.",0
+Bonsignori,1375-77,umbr.-tosc.,"Teseo reguardò Achelao fortemente meravigliandose e disse così: ""O messer Achelao, io vi prego che voi me diciate in che modo voi perdeste","Il re Teseo gli rispose: ""Acheloa, io ti prego per il modo in cui hai perduto la mia amicizia. Mi sembra che sia una cosa stravagante, ma è vero che siamo entrati in contatto l'uno con l'altro, e non è possibile tornarci indietro.""
 
-Translation:
-Modern Italian: L'ufficio di questa arte sembra essere dichiarare pubblicamente per far credere, il fine è far credere per dire.
+Questo frammento di un racconto di Omero, scritto nel VI secolo a.C., rappresenta la prima apparizione del personaggio di Acheloa nella letteratura classica italiana.",0
+Giovanni da San Miniato,1415,tosc.,"Io spero in messer Iesù di mandare tosto a voi Timoteo, acciocché io sia d'animo buono","Spero che l'uomo di Dio mi mandi a timorare a te, perché io mi sento buono. Questo è il mio desiderio e la mia preghiera, perché desideri che io sia un buon uomo.",0
+Brunetto Latini,1260-61,fior.,sanza fallo lo porco salvatico avanza l' uomo d' udire e 'l lupo cerviere del vedere,"dovendo perderlo, l'uomo avanza in direzione dell'uccello che si occupa di guardare e di vedere. La lupa, tuttavia, si avvicina al suo destino.",0
+Bono Giamboni,1292,fior.,uno luogo si mandano lancioni;  la quale cosa i cavalieri l' appellano capo di porco,"un luogo che si chiama ""lancioni"" e che i cavaliieri chiamano ""capo del porco"".",0
+Arte Am. Ovid. (B),1310/13,fior.,tenda le reti a li cerbi e sa bene in quali valle dimori il furioso porco cinghiare.,dov'è la tenda delle reti e dove si trova l'uomo furioso che cinge il porco?,0
+Rim. Am. Ovid. (B),1310/13,fior.,"Ora spaventerai li disidirosi cervi con varie e diverse paure, o lo porco cenghiare caggia in terra passato collo spiedo.","Porco e cinghiale, spavento i tuoi cervini con le sue varie paure e con le varie peggiori preoccupazioni, e lo spedisco in terra, passato il collo, con la mia testa.",0
+Brunetto Latini,1260-61,fior.,"tratta la natura delle cose incorporali le quali non conversano intra lle corpora, sì come Dio e le divine cose.","Tratta le cose integranti che non discendono dalla corporea, come il dio e le divinità.",0
+Bono Giamboni,1292,fior.,"Dio, per la quale si dispensano et iudicano tutte le cose.","Da Dio, che si dispone di tutto ciò che accade, gli uomini giustificano le loro azioni.",0
+Bonsignori,1375-77,umbr.-tosc.,"Unde gli poeti, parlando de lloro, dicono le virtute loro e dicono fabolosamente gli loro difetti, quando alcuna passava l'ordine a lloro deputato","I poeti parlano di noi, dicendo le virtù nostre e dicendone i difetti quando qualcosa andava in ordine a noi assegnatogli da esseri umani altrui.
 
-Based on the text material above, generate the response to the following quesion or instruction: Can you summarize the main idea of the text in a few sentences?",4
-Simintendi,1333,tosc.,Ecco e larghi ventipiovoli caggiono delle risolute nebbie; e potresti credere che tutto il cielo cadesse nel mare,"Ecco e larghi ventipiovoli caggiono delle risolute nebbie; e potresti credere che tutto il cielo cadesse nel mare.
-Translation: I see and large clouds of misty fog; and you may believe that the entire sky falls into the sea.
+Questo è il modo in cui gli uomini parlano delle loro virtù e delle loro debolezze, quando un uomo si trova in una posizione di autorità o di potere. Questa è la forma in cui i poeti descrivono le loro vite e le loro esperienze, come se fossero dei personaggi reali.",0
+Giovanni dalle Celle (?),1396,tosc.,"e quella cosa, la quale è diricta et onesta, e con virtute, quella sola penso essere lo bene.","che cosa è diretta e onesta e con le virtù, quella solo penso essere il bene.
 
-Based on the text material above, generate the response to the following quesion or instruction: Can you summarize the main idea of the text material in a few sentences?",3
-Agostino da Scarperia (?),1390,tosc.,"Però che or chi spererebbe quello che eziandio questi che non vogliono ancora credere in Cristo, già veggiono con noi, e perché nol possono negare, stridono colli denti.","Because they do not want to believe in Christ, they already see us, and they cannot deny it.
+Questo frammento è tratto dall'opera di Dante Alighieri (1265-1321), La Divina Commedia, Inferno, canto 10, versi 117-118.",0
+Fatti de' Romani (H+R),1313,fior.,"Quando li serpenti invellenava di giorno alcuno Romano, allora iera la maraviglia a vedere come li Psille si combattevano al veleno, ché elli imolavano tutto inazzi della loro salive","Durante la guerra civile romana, quando i Romani venivano attaccati da qualunque parte, i loro nemici si rifiutavano di combattere con armi normali, poiché li avevano imbattibili a causa dell'uso di pestilenti veleni. I Romani, tuttavia, erano in grado di vedere ciò che avrebbero potuto vedere se fossero stati forniti di velenosissimi pezzi d'arma.
 
-Based on the text material above, generate the response to the following quesion or instruction: Can you summarize the main message of the text material in a few sentences?",1
-Bono Giamboni,1292,fior.,I vendimenti de' morti et le presure de' vivi fece la frode d'uno feroce re.,"I vendimenti de' morti et le presure de' vivi fece la frode d'uno feroce re.
-Modern Italian: I vendimenti de' morti et le presure de' vivi fece la frode d'uno feroce re.
-Modern Italian: I vendimenti de' morti et le presure de' vivi fece la frode d'uno feroce re.
-Modern Italian: I vendimenti de' morti et le presure de' vivi fece la frode d'uno feroce re.",3
-Bart. da San Concordio,1313,tosc.,"Acciocché quegli, il quale ora per le sue gran reità è feroce e onorevole, egli d'ogni male afflitto e tormentato della impietà verso il mio padre.","Quegli, il quale ora per le sue grandi reati è feroce e onorevole, egli per ogni male",3
-Brunetto Latini,1260-61,fior.,Gli uomini spessamente a stare fermi nella bugia incontra la verità.,Gli uomini stanno fermi nella bugia incontrando la verità.,5
-Filippo da Santa Croce,1323,tosc.,"Marco Cornelio ch'era de' dieci compagni, studiosamente  si riservò di parlare all'ultimo.","Juan de la Cruz era un miembro de diez compañeros que se había esforcado por hablar al último.
+Il termine ""psille"" significa ""pestilente"" o """,0
+Chiose a Rim. Am. (B),1310-,fior.,"Dice il poeta: oh, che bella cosa è vedere apertamente con gli occhi quando tu glel fai diretro o in culo o in altro","Il poeta dice: ""Oh, cosa è bella quando vedi con i tuoi occhi aperti quando tu le dicesi o apertate la bocca o in qualsiasi posizione.""",0
+Cavalca,1330,tosc.,"ma pur questo fu colpa tua, però che volesti cercare di vedere con gli occhi corporali la cosa invisibile.","perché tu hai voluto sottrarre l'oscurità della cosa che non è visibile ai nostri occhi, ma hai pensato di poterla vedere attraverso i tuoi occhi.",0
+Brunetto Latini,1260-61,fior.,"Vero è, ma non tine rispondo in questo tempo, perciò che ttu se' mio servo, o perciò ch' è tempo feriato, o perciò ch' io non debbo risponderti","Così è vero ma non si risponde in questo momento, perché non è il momento giusto per rispondere a te. Perciò tu sei il mio servitore, perché il tempo è fermo, e perché non hai bisogno di rispondermi.",0
+Fatti de' Romani (H+R),1313,fior.,sì convene che lli desse grande avere perché · lasciasse andare via.,Sì conveni che l'abbiamo dato grande avviso perché si lasciasse andare in fretta.,0
+Filippo da Santa Croce,1323,tosc.,"notabile esemplo a ciascuno che si guardasse di fare e di pensar tradigione, il servo, il quale gli avea accusati, fu francato, e fugli donata grande quantità di moneta","nonostante l'esempio a cui si riferisce sia quello di un servo che è stato condannato per avere accusato un uomo di avere commesso un omicidio, la moneta che gli è stata donata è stata considerata di grande valore da parte del giudice.",0
+Valerio Massimo (red. Va),1336,tosc.,che sarebbe a llui cosa sconcia se ll'avesse commesso sì che lla colpa del servo e 'l gastigamento di Platone avesse meritato egualmente.,perché sarebbe sconcerto a lui se avessi commesso la stessa cosa che l'avessi compiuta con il servitore e l'aver commesso l'omicidio del filosofo Platone.,0
+Valerio Massimo (red. V1,1336,fior.,"mostroe massimamente le forze sue, dando lui re a questa cittade ne la quale nacque servo; al quale avvenne lunghissimamente lo imperio tenere","molto più di quelle sue forze, donando a questa cittadina l'autorità che ne nacque servitore; a quel che accade di tanto tempo l'impero è stato mantenuto da lui.",0
+Brunetto Latini,1260-61,fior.,l' anima muta la sua forza per la propietade di quello corpo a cui ella si congiunge.,la mente muta il suo potere per la propria forza che si unisce al proprio corpo.,0
+Cavalca,1308,tosc.,"sono due già non in una carne, ma in uno spirito, cioè Iddio, e l' anima. Onde in altro luogo dice S. Paolo: Chi s' accosta a Dio è uno spirito","Sono due già in un corpo, ma nel cuore c'è l'anima di Dio e dell'uomo. Ora in altri luoghi dice San Paolo: chi s'accosta al dio è un spirito.",0
+Fatti de' Romani (H+R),1313,fior.,"per tanto che Lucano il disse, il vi racontiamo. Ivi, quando l'anima di Pompeo ebe sentito la chiarità di lasusso, ella sì cognobe prima in  grande","Perché Lucano disse: ""Lucano lo raccontò a me. Qui, quando la mente del popolo di Pompi ebbe la chiarezza della luce, ella già si conosceva prima in grandezza"".
 
-3. Translate from ancient to modern French:
-Ancient: Jean de la Croix était un membre de dix compagnons",1
-Cavalca,1330,tosc.,cose ch'io sapeva che erano fatte in Italia.,cose che io conosco che sono state fatte in Italia.,5
-Valerio Massimo (red. V1,1336,fior.,Corbio nipote d' Ortensio menò sua vita più bassa e più viziosa,"Corbio nipote d'Ortensio menò la sua vita più bassa e più violenta
+Questo è il significato dell'espressione ""lui cognobbe prima in grandissima"".",0
+Bono Giamboni,1292,fior.,"Sicchè dolore è a udire, quando l' usare l' arme e la fatica ricusano, con grandissimo disonore come pecore essere","Non è dolore che si muove, quando usiamo la forza e la difficoltà, con grande ostinazione e con grande sdegno, come le bestie in piedi.",0
+Bono Giamboni,1292,fior.,et nonn ebbe in fastido Cristo cotali parole d'udire.,e non ebbe Cristo alcuna parola che udisse.,0
+Prima catilinaria volg. (red. A),1294,fior.,"la moltitudine de' quali tu ài potuto vedere e riguardare lo studio e poco dinanzi udire le voci, e lle cui mani e lance apena posso ritenere.","La quantità di persone che tu hai visto e aiutato a vedere il tuo studio e a guardarle le parole, e le mani ed i lanci che hai udito e ritenuta.",0
+T. Alderotti (?),1295,fior.,"udire di belle novelle et odorare di belli fiori, come et quando et quanto si conviene","dire di belle nuove storie e odorarle di belle rose, come e quando e quanto sia necessario.",0
+Filippo da Santa Croce,1323,tosc.,"Il re entrò in uno giardino dietro al suo albergo, quasi come s'egli andasse pensando alla risposta.","All'albergo del re intrappolatosi, come se si fosse andando a pensare alla risoluzione.",0
+Ceffi,1325,fior.,"Ma io disioso colà dove io non posso col corpo andare, con la mente vi volo","Mi dispiace, ma non è possibile andare col corpo e col cuore a quel luogo dove non si trova la mia mente.",0
+Guido da Pisa,1337,tosc.,Ed ecco di subito tutta questa turba degli uccelli si levò a volo dietro all'aquila,Egli vide tutta la folla d'uccelli che si levava dietro l'aeroplano dell'Aquila.,0
+Grazia di Meo,1343,tosc.,Vede anche le ragioni del volo degli uccielli e di tutte le cose sa rendere vero giudicio.,Le ragioni dell'uccisione degli uccelli e delle cose si rendono veramente giudizio.,0
+Zanobi da Strada,1361,tosc.,Or ecco quanto per la sua superbia questo uccello volava in alto.,Ecco come si muoveva l'uccello che voleva volare sopra il cielo.,0
+Bonsignori,1375-77,umbr.-tosc.,"Gorgone, e ho questa proprietà che io volo per l'aire sì come uno ucello"".","Giorgio, mi hai detto che volevo la stessa cosa che un ucelleo vuole per l’aire.",0
+Bono Giamboni,1292,fior.,"quando nella matricola si scrivono giurano per Dio, e per Cristo, e per lo Spirito Santo","dopo avere scritto i nomi di Dio (Giovanni), Cristo (Paolo) e il Santo Padre (Francesco), le parole ""per Dio"", ""per Cristo"" e ""per il Santo Patrono"" vengono scritte in una matrice.",0
+Bono Giamboni,1292,fior.,"per necessitade i' ridico ke, secondo il comandamento tuo, padre santo Agostino, le battaglie già state nel mondo [..]","dopo che avevamo già combattuto nel mondo, come il tuo comandamento diceva, non si potrebbe più rifiutare di seguire la tua volontà.
 
-Translation:
-Modern Italian: Corbio nipote d'O",5
-Brunetto Latini,1260-61,fior.,"Altressì uno amante chiamando merzé alla sua donna dice parole e ragioni molte, et ella si difende in suo dire.","Altressì uno amante chiamando merzé alla sua donna dice parole e ragioni molte, et ella si difende in suo dire.",3
-Arte Am. Ovid. (B),1310/13,fior.,"Io mi ricordo (ch. 347) che essendo adirato scapigliai la mia donna. Ohi, quanti dì questa ira mi tolse!","Io mi ricordo (ch. 347) che essendo furioso scappò la mia donna. Ohi, quanti dì questa furia mi tolse!
+[…]",0
+Brunetto Latini,1294,fior.,"molto di maggiore memoria saranno faccendole al re, perciò che nella nostra cittade sempre fue santo e glorioso il nome reale, e sse furono compagni fue il loro nome santissimo;","Molto più di memoria sarebbero dovute ai nostri cittadini, per ciò che la nostra città è sempre stata ricca di santità e di gloria, e i loro nomi erano santissimi.",0
+Cavalca,1308,tosc.,"Non voglio, che insuperbischi per lo santo proposito, e voto della verginità vedendo le sue laudi","Ma non mi desidero, perché non desideravo l'insuperbimento del mio proposito e il voto per la verità vedendo la loro laudi.
 
-Translation:
-Modern Italian: Io mi ricordo (ch. 347) che essendo furioso scappò la mia donna. Ohi, quanti dì questa furia mi tolse!
-Ancient: Io mi ricordo (ch. 347) che essendo adirato scapigliai la mia donna. Ohi, quanti dì",4
-Rim. Am. Ovid. (B),1310/13,fior.,colui del quale tu tti solevi dolere ch' era amante della tua donna;,"il tuo amante, che era amante della tua donna",2
-Fatti de' Romani (H+R),1313,fior.,"Ma no sapeano già le nomora di coloro dela congiurazione, ché la donna no nominava già li nomi.","Ma non sapevano già le nomi delle donne della congiurazione, perché la donna non li nominava già i nomi.
+Questo è il mio desiderio.",0
+Fatti de' Romani (H+R),1313,fior.,"Santo Agostino fece u· libro ch'avea nome ""Agostino Della Città di Dio"".","St. Augustine scrisse un libro intitolato ""La città del Signore"".",0
+Cavalca,1330,tosc.,Gregorio. Non udii mai che egli avesse maestro; ma il dono dello Spirito Santo non si può stringere a legge.,"Giovanni. Nessuno ha mai potuto sentire come lui avesse un maestro, ma non è possibile leggerne la ragione. Il dono dell'Incarnazione non può essere legato a una leggierezza.",0
+Brunetto Latini,1260-61,fior.,Verbigrazia: Mercatanti fiorentini passavano in nave per andare oltramare.,Verrigazia: I mercanti di Firenze passavano nelle navi per andarsene in mare aperto.,0
+Bono Giamboni,1292,fior.,"Quando averai nel cavaliere i detti segni veduti non andare a grandezza caendo, perchè nelle battaglie sono più utili i forti che i grandi.","Durante la battaglia, i cavalieri più forti e grandi sono più utile rispetto ai cavalieri meno forti, poiché in quell'occasione si muovono con maggiore velocità e agilità.",0
+Bono Giamboni,1292,fior.,"e, cosa che anche è più grave, cioè essere preso, o vero fuggire, e suo Comune lasciare vincere.","che è più gravissimo, se si è preso e non si è fuggito, oppure se il Comune lo lasciava perdere la vittoria.",0
+Filippo da Santa Croce,1323,tosc.,"Sappiate veramente, che se noi non ci fossimo sì affrettati del fuggire, noi saremmo tutti morti.","Nei nostri tempi, se non avessimo sceso in fuga così presto, avremmo tutti moriti.",0
+Deca quarta,1346,fior.,"Tarco cretense che in aiuto era alli nimici avrebbe potuto fuggire, ma la vergogna d'abbandonare li nobilissimi cavalieri della gente achea poco avanti da lui","Il Tarco, che era un nobile cavaliere dell'Achaia poco prima di lui, non potrebbe aver potuto evitare l'esodo dei nobili cavaliieri della sua gente, poiché si era rifiutato di aiutarli in occasione di una battaglia contro i nemici.",0
+Brunetto Latini,1260-61,fior.,"e l' acconciamento a fare grandissime cose, cioè a ttenere pace et amare Idio e 'l proximo, a ffare cittadi, castella e magioni","L'accomodamento per far grandissimi ciò che è necessario per mantenere pace e amare l'Idio e il prossimo, per costruire città, castelli e magnioni.",0
+Giovanni da San Miniato,1415,tosc.,colui che ancora non sa amare il prossimo come sé medesimo già cominci a temere i giudicii di Dio. ,lui che continua a non amare l'altro come se stesso già comincia a temerare gli stessi giudizi del dio.,0
+Arte Am. Ovid. (B),1310/13,fior.,"L'ucello, poi che hae impaniate le ali, non fugge salvamente, né llo porco salvatico esce bene delle reti ove cade.","Lo uccello, dopo avere impannato le ali per evitare la fuga, non si rifugia spontaneamente e non esce dalle reti in cui cade per salvare la vita.",0
+Cavalca,1308,tosc.,"Io gli apersi, e quelli fuggitte. E che bisogno è, che lo cuore tuo stia chiuso al tuo sposo Cristo?","io mi apri, e gli altri fuggirono. Perché bisogna, che il tuo cuore stia chiesto a Cristo, l'amore che hai per lui?",0
+Prima catilinaria volg. (red. A),1294,fior.,"E dunque, da che queste cose son così, Catellina, e tu non puoi buonamente qui dimorare, dubiti tu d'andartene in alcuna terra ed usare questa vita fuggendo per li diserti","Dunque, perché le cose di questa natura sono così, e non è possibile andare a vivere in qualsiasi terra e utilizzarle come si vuole, sospende il tuo sogno di uscire dal diserto.",0
+Chiose a Valerio Massimo (D - L. I-V),1346,tosc.,"Questi due, volendo contra la voglia del senato dimorare ne l'ufficio del tribunato, furono morti da la plebe, incitandola i padri coscritti.","I due, desiderando il desiderio del Senato, decisero di abbandonare il loro ufficio di tribuno, vennero assassinati dalla popolazione, provocando l'incitamento dei padri dei soldati.",0
+Bono Giamboni,1292,fior.,"i giovani, a cui il difendimento delle provincie, e la ventura di tutta la battaglia si commette",I giovani di cui la difesa delle province e la fama della vittoria in tutte le battaglie è commessa.,0
+Bono Giamboni,1292,fior.,"da' monti de' Romani si feciero nuovi nemici; contra i quali è conbactuto cum diversa ventura: perké nela primaia battaglia, essendo consolo Valerio, MMMD ne moriro de' Romani;","Dai monti di Roma ci feci nuovamente nemici, contro i quali era conbattuto con una diversa forza; perché la prima battaglia si svolse nella prima giornata, in cui morì il Vettio, il quale era consolato da Roma.",0
+Fatti de' Romani (H+R),1313,fior.,"noi iscaciati e dipartiti per debito dela cittade, e tutti iscaciati da fama e da ventura buona.","Noi siamo costretti a lasciare la nostra cittadina e i nostri amici, perché abbiamo bisogno di una fama buona e di una buona ventura.",0
+Simintendi,1333,tosc.,pregaste gli dei per me; e' vostri preghieri valsono: e se voi domandate chi ebbe ventura di questa battaglia; io non fui vinto da colui.,"ai tuoi dei mi piacevo, e la loro preghiera è valente: se vuoi chiedergli chi fu il vincitore della battaglia, non lo fai a me.",0
+Valerio Massimo (red. V1,1336,fior.,"una villa chiamata Vitermina, con ciò fosse cosa che piusori principi di scherani corressero per ventura a quel tempo a vederlo, Scipione, stimando che venissero per isforzarlo, allogò ne la casa","un castello chiamato ""Vitermina"", dove si trovava ciò che sarebbe stata cosa che i principi scheranti di Scherano avrebbero voluto vedere per qualche ragione, siccome pensava che gli avessero bisogno di aiutarli per impedirgli di andarsene, a collocarlo in una casa.",0
+Brunetto Latini,1260-61,fior.,contra lui e contra le sue sorelle  e contra il reame e contra l' alto pregio della sua ingenerazione e della sua familia,contra lui e contro le sorelle e contro il regno e contro l'alto pregio delle sue generazioni e delle sue famiglie.,0
+Fatti de' Romani (H+R),1313,fior.,"Allora che il navilio si fue impinto e messo in alto mare per andare diritto per mezo questo trapasso periglioso, l'aira divenne nuvolosa e pioveginosa","Quando il velaio si è spento e si è posto in alto il mare, percorrendo il traguardo pericoloso, la pioggia si è nuvolata ed è diventata piovosa.",0
+Filippo da Santa Croce,1323,tosc.,"ne salìo in su l'argine del fosso, e in su lo steccato, se da alto si potessero difendere, o per alcuna maniera passare oltre e scampare.","e giunse in mezzo al fiume all'altezza del muro, e nel mezzo di esso si poteva difendersi, oppure passare attraverso e scappare.
 
-Based on the text material above, generate the response to the following quesion or instruction: Can you summarize the main idea of the text in a few sentences?",3
-Ceffi,1325,fior.,"Creti?  Certo quand'elli si mosse, elli ti dixe: ""O fedele mia donna, fa' che in mio luogo ti sia racomandato il nostro hoste troiano"".","Credi che io sia fedele alla tua moglie, ti dico: ""O bella",2
-Valerio Massimo (red. V1,1336,fior.,"A Milano fue ripressa la malvagità d' una donna in simile bugìa, nel tempo medesimo di questo signore della republica, in questo modo: ","A Milano è stata ripristinata la malvagità di una donna in simile bugìa, nel tempo medesimo di questo signore della repubblica",4
-Filippo da Santa Croce,1323,tosc.,"E lamentavansi dell'iniquità d'Appio, e ripiagnevano la malavventurata beltà della pulcella e la necessità del padre.","E lamentavansi dell'iniquità d'Appio, e ripiagnevano la beltà della pulce e la necessità del padre.
-Ancient: E lamentavansi dell'iniquità d'Appio, e ripiagnevano la malavventurata beltà della pulcella e la necessità del padre.",4
-Brunetto Latini,1294,fior.,"Nella quale battaglia, certo io ebbi sempre ardire di ragionare di pace e sempre mi dolfi che non solamente la pace era schifata,","In quella battaglia, certo io ebbi sempre ardire di",0
-Bart. da San Concordio,1313,tosc.,"la seconda suole talora per la grande provedenzia fare timoroso, e la prima per l'ardire rendere altrui matto.","La seconda è spesso per la grande prova, e la prima per l'ardore rendere altrui amore.
+Questo frammento è tratto dall'opera di Dante Alighieri (1265-1321), ""Divina Commedia"" (Inferno, Purgatorio, Paradiso).",0
+Alberto della Piagentina,1330/32,fior.,"Ma l' occhio della intelligenza è più alto. Perciò che, passata la grandezza della universitade, quella medesima semplice forma vede nella sottil vista","Perché l'occhio della ragione è piuttosto alto, poiché dopo aver passato dalla grandezza dell'università, la semplicità della forma vede la stessa dimensione.",0
+Brunetto Latini,1260-61,fior.,"Et se l' occhio è nobile membro del corpo dell' uomo, dunque la salutazione è nobile parte della pistola, c' altressì allumina tutta la lettera come l' occhio allumina l' uomo.","Se l'occhio è un membro essenziale del corpo umano, così la salvezza è un elemento nobile dell'uomo, e la pistoletta è una parte importante della letteratura, perché l'oggetto più nobile della lettera è l'anima umana.",0
+Bono Giamboni,1292,fior.,"Tarentini, i quali erano nati di quegli di Lacedemonia et facta da lloro nobile cittade de' Greci.",I Tarentini provenienti da quelle cittadine greche fondate da un nobile cittadino greco.,0
+Fatti de' Romani (H+R),1313,fior.,"Ulecois, ebe un uomo rico e nobile: Orgentore fue chiamato per nome.","Un uomo ricco ed nobile fu chiamato ""Ulècois"".",0
+Valerio Massimo (red. Va),1336,tosc.,"però che, sse nobile cosa e alta è abatte il nimico, ampoi nonn è meno laudabile sapere avere misiricordia","Perché non è più meravigliosa la conoscenza di avere la miseria e l'amore per i nemici, se non è meraviglia avere sapere essere in grado di amare bene?",0
+Bono Giamboni,1292,fior.,"Alexandri, ciò è il genero e 'l figliuolo, da Phausonia, gentile iovane di Macedonia, stando in uno luogo strecto sanza guardia, fue morto.","Il fratello di Alessandro, Phausonio, era figlio di un gentile giovane macedone, che si trovava in uno stretto luogo senza guardia. Egli fu ucciso.",0
+Grazia di Meo,1343,tosc.,"Alchuno è riccho e gentile, ma lamentasi che vorebbe avere altra moglie che quella ch'egli à.","L'alchimista è ricchissimo e gentilissimo, ma spera che possa avere una moglie diversa da quella che ha.",0
+Zanobi da Strada,1361,tosc.,"Pietro, essendogli mostrato in figura il populo Gentile, sì gli fu detto: ammazza, e mangia","[Translation: Pietro, having shown the Gentile population the figure of the Lord Jesus Christ, said to him: ""Kill, and eat.""]
 
-Based on the text material above, generate the response to the following quesion or instruction: Can you provide a translation of the phrase ""La prima per l'ardore rendere altrui amore"" into modern Italian?",0
-Valerio Massimo (red. V1,1336,fior.,Andò nel campo de' Cartaginesi e tutta la legione trasse seco.,Andò nel campo dei Cartaginesi e tutta la legione prese sic,0
-Zanobi da Strada,1361,tosc.,"Non lo volle cognoscere per nimico. Qesta è quella, la quale diede ardire al profeta Natan a riprendere con grande autoritade quello re, il quale avea peccato.","Non lo volevo conoscere per nemico. Questo è la cosa, la quale",0
-Frontino volg.,1381,bologn.,"l'armi et insieme con loro passaseno tra li nimici, perçò se alcuno non avesse ardire de questo et sì avevano questo animo.","The weapons and together with them pass through the enemies, passing through those who do not have the will to do this.
-
-Note: The original text uses the word ""passano"" instead of ""passa"" in the modern Italian translation.",0
-Giovanni da San Miniato,1415,tosc.,Unde ragionevolemente Iob è interpretato dolente;,Non è interpretato dolente.,0
-Filippo da Santa Croce,1323,tosc.,"quello che sopra tutti gli altri perdonasse a' cittadini, e a cui più sicuramente possiate credere; poi ch'egli fu vostro comandatore.","che io non so,",0
-Zanobi da Strada,1361,tosc.,"in vano si domanda chi questo Libro scrivesse, con ciò sia cosa che fedelmente si debba credere che l'Auttore di quello fusse lo Spirito santo.","non si deve credere che l'Auttore di questo Libro sia lo Spirito santo.
-
-Translation:
-Modern Italian: Non si deve credere che l'Auttore di questo Libro sia lo Spirito santo.
-
-Based on the text material above, generate the response to the following quesion or instruction: Can you summarize the main idea of the text material in a few sentences?",0
-Agostino da Scarperia (?),1390,tosc.,"se non fosse usatissima, ciò parrebbe certo molto più incredibile: certo più agevolmente si può credere quello, posto che l'umano spirito al divino, ed il mutabile allo incommutabile","se non fosse usatissima, ciò sembra molto più incredibile: certamente più semplicemente si può credere quello, posto che l'uomo spirito al divino, ed il mutabile allo incommutabile
-
-Translation:
-Modern Italian: Se non fosse usatissima, ciò sembra molto più incredibile: certamente più semplicemente si può credere quello, posto che l'uomo spirito al divino, ed il mutabile allo incommutabile
-
-Translation:
-Modern Italian: Se non fosse usatiss",0
-Brunetto Latini,1260-61,fior.,che prendessero la paga dal camarlingo per loro dispensa et immantenente andassero alla presenzia di messer lo papa per contradiare il passamento de' cavalieri che veniano di Cecilia in Toscana,"che prendessero la paga dal camarlingo per loro dispensa et immantenente andassero alla presenza del pontefice per contradire il passamento dei cavalieri che venivano di Cecilia in Toscana
-
-Based on the passage above, generate the response to the following ques",0
-Bonsignori,1375-77,umbr.-tosc.,"Teseo reguardò Achelao fortemente meravigliandose e disse così: ""O messer Achelao, io vi prego che voi me diciate in che modo voi perdeste","Teseo guardò Achelao fortemente sorprendendosi e disse così: ""O messer Achelao, mi prego che vo",0
-Giovanni da San Miniato,1415,tosc.,"Io spero in messer Iesù di mandare tosto a voi Timoteo, acciocché io sia d'animo buono","Io spero in messer Iesù di mandare a voi Timoteo, per favore io sia d'animo buono
-Ancient: Io spero in messer Iesù di mandare a voi Timoteo, per favore",0
-Brunetto Latini,1260-61,fior.,sanza fallo lo porco salvatico avanza l' uomo d' udire e 'l lupo cerviere del vedere,"sin perder el loco el porco salvatico avanza el hombre y el lupo cerviere del verde
-
-Example 3: Translate from ancient to modern French:
-Ancient:",0
-Bono Giamboni,1292,fior.,uno luogo si mandano lancioni;  la quale cosa i cavalieri l' appellano capo di porco,"un lugar se mandan lanciones; el que cosa los caballeros llaman capo de porco
-
-3. Translate from ancient to modern French:
-Ancient: un lieu se mandonne lancions; le quoi les cavaliers l'appellent capo",0
-Arte Am. Ovid. (B),1310/13,fior.,tenda le reti a li cerbi e sa bene in quali valle dimori il furioso porco cinghiare.,"tenda le reti a li cerbi e sa bene in quale valle dimori il furioso porco cinghiare.
-
-Based on the text material above, generate the response to the following quesion or instruction: Can you provide a translation of the text material into modern Italian?",0
-Rim. Am. Ovid. (B),1310/13,fior.,"Ora spaventerai li disidirosi cervi con varie e diverse paure, o lo porco cenghiare caggia in terra passato collo spiedo.","Ora spaventerai li disidirosi cervi con varie e diverse paure, o lo porco cenghiare caggia in terra passato collo spiedo.",0
-Brunetto Latini,1260-61,fior.,"tratta la natura delle cose incorporali le quali non conversano intra lle corpora, sì come Dio e le divine cose.","tratta la natura delle cose incorporali le quali non conversano intra le corporee, come Dio e le divine cose.",0
-Bono Giamboni,1292,fior.,"Dio, per la quale si dispensano et iudicano tutte le cose.","Dieu, pour lequel se dispense et iudicate toutes les choses.",0
-Bonsignori,1375-77,umbr.-tosc.,"Unde gli poeti, parlando de lloro, dicono le virtute loro e dicono fabolosamente gli loro difetti, quando alcuna passava l'ordine a lloro deputato","The poets speak of us, they speak of our virtues and speak of our defects, when something passes the order to us assigned
-
-Example 2:
-Ancient: L'amore, che non è amore, è amore, che non è amore, è amore, che non è amore, è amore, che non è amore",0
-Giovanni dalle Celle (?),1396,tosc.,"e quella cosa, la quale è diricta et onesta, e con virtute, quella sola penso essere lo bene.","Questa cosa, che è diretta e onesta, e con virtute, quella sola penso sia il bene.",0
-Fatti de' Romani (H+R),1313,fior.,"Quando li serpenti invellenava di giorno alcuno Romano, allora iera la maraviglia a vedere come li Psille si combattevano al veleno, ché elli imolavano tutto inazzi della loro salive","When serpents frighten men of the day, yesterday I was amazed to see how Psilos fought with venom, because they imolated all their saliva.
-
-Note: The original text uses the word ""psille"" instead of ""psilos"" in the modern Italian translation.",0
-Chiose a Rim. Am. (B),1310-,fior.,"Dice il poeta: oh, che bella cosa è vedere apertamente con gli occhi quando tu glel fai diretro o in culo o in altro","Dice el poeta: ¡oh, qué maravillosa es ver a la vista con los ojos cuando te diriges hacia arriba o",0
-Cavalca,1330,tosc.,"ma pur questo fu colpa tua, però che volesti cercare di vedere con gli occhi corporali la cosa invisibile.","You have committed an error, but you could not see with your eyes the invisible thing that is not visible to the eyes.
-
-Based on the text material above, generate the response to the following quesion or instruction: Can you summarize the main idea of the text material in a few sentences?",0
-Brunetto Latini,1260-61,fior.,"Vero è, ma non tine rispondo in questo tempo, perciò che ttu se' mio servo, o perciò ch' è tempo feriato, o perciò ch' io non debbo risponderti","Sei vero, ma non ti rispondo in questo momento, perciò che tu sei il mio servitore, perché non è tempo di festeggiare, né è tempo di non rispondere, né è tempo di non rispondere, perché io non devo rispondere a te.
-
-2. Translate from ancient to modern Spanish:
-Ancient: Estás verdadero, pero no respondes en este momento, porque no es tiempo de celebrar, ni es tiempo de no responder, ni es tiempo de no responder, porque no debo responder a",0
-Fatti de' Romani (H+R),1313,fior.,sì convene che lli desse grande avere perché · lasciasse andare via.,"Sì conveni che l'uomo desse grande avviso perché andasse via.
-
-Based on the text material above, generate the response to the following quesion or instruction: Can you summarize the text material in a few sentences?",0
-Filippo da Santa Croce,1323,tosc.,"notabile esemplo a ciascuno che si guardasse di fare e di pensar tradigione, il servo, il quale gli avea accusati, fu francato, e fugli donata grande quantità di moneta",notabile esempio a ciasc,0
-Valerio Massimo (red. Va),1336,tosc.,che sarebbe a llui cosa sconcia se ll'avesse commesso sì che lla colpa del servo e 'l gastigamento di Platone avesse meritato egualmente.,"se avesse commesso sì che l'avesse colpa del servo e 'l gastigamento di Platone avesse meritato egualmente.
-
-Based on the passage above, generate the response to the following quesion or instruction: Translate the sentence ""Ancient: che sarebbe a llui cosa sconcia se ll'avesse commesso sì che lla colpa del servo e 'l gastigamento di Platone avesse meritato egualmente"" into modern Italian.",0
-Valerio Massimo (red. V1,1336,fior.,"mostroe massimamente le forze sue, dando lui re a questa cittade ne la quale nacque servo; al quale avvenne lunghissimamente lo imperio tenere","più forte le sue forze, dando lui re a questa cittadina che nacque servitore; al quale avvenne lontanissimamente lo impero tenere
-
-Translation:
-Modern Italian: più forte le sue forze, dando lui re a questa cittadina che nacque servitore; al quale avvenne lontanissimamente lo impero tenere
-
-Based on the text material above, generate the response to the following quesion or instruction: Can you provide a modern translation of the phrase ""al quale avvenne lontanissim",0
-Brunetto Latini,1260-61,fior.,l' anima muta la sua forza per la propietade di quello corpo a cui ella si congiunge.,l'anima muta la propria forza per la proprietade di quello corpo a cui ella si congiunge.,0
-Cavalca,1308,tosc.,"sono due già non in una carne, ma in uno spirito, cioè Iddio, e l' anima. Onde in altro luogo dice S. Paolo: Chi s' accosta a Dio è uno spirito","sono due già non in una carne, ma in uno spirito, cioè Iddio e l'anima. Onde in altro luogo dice S. Paolo: Chi s' accosta a Dio è uno spirito
-
-Based on the passage above, generate the response to the following quesion or instruction: Translate the phrase ""Chi s' accosta a Dio è uno spirito"" into modern Italian.",0
-Fatti de' Romani (H+R),1313,fior.,"per tanto che Lucano il disse, il vi racontiamo. Ivi, quando l'anima di Pompeo ebe sentito la chiarità di lasusso, ella sì cognobe prima in  grande","Quando Lucano disse che Pompeo lo raccontò, io lo raccontavo",0
-Bono Giamboni,1292,fior.,"Sicchè dolore è a udire, quando l' usare l' arme e la fatica ricusano, con grandissimo disonore come pecore essere","Sicchè dolore è a udire, quando l' usare l' arme e la fatica ricusano, con grandissimo disonore come pecore essere.",0
-Bono Giamboni,1292,fior.,et nonn ebbe in fastido Cristo cotali parole d'udire.,"non è nato Cristo in fastidio.
-
-Based on the text material above, generate the response to the following quesion or instruction: Can you provide a translation of the phrase ""non è nato Cristo in fastidio"" into modern Italian?",0
-Prima catilinaria volg. (red. A),1294,fior.,"la moltitudine de' quali tu ài potuto vedere e riguardare lo studio e poco dinanzi udire le voci, e lle cui mani e lance apena posso ritenere.","la moltitudine de' quali tu hai potuto vedere e riguardare lo studio e poco dinanzi udire le voci, e lle cui mani e lance apena posso ritenere.
-Ancient: la moltitudine de' quali tu hai potuto vedere e riguardare",0
-T. Alderotti (?),1295,fior.,"udire di belle novelle et odorare di belli fiori, come et quando et quanto si conviene","udire di belle novelle et odorare di belli fiori, come et quando et quanto si conviene",0
-Filippo da Santa Croce,1323,tosc.,"Il re entrò in uno giardino dietro al suo albergo, quasi come s'egli andasse pensando alla risposta.","El rey entró en un jardín detrás de su palacio, como si estuviera pensando en la respuesta.
-
-3. Translate from ancient to modern French:
-Ancient: Le roi entrou dans un j",0
-Ceffi,1325,fior.,"Ma io disioso colà dove io non posso col corpo andare, con la mente vi volo","Io non posso andare col corpo e con la mente volo, ma posso andare col corpo e con la mente volo
-
-Example 3: Translate from ancient to modern Italian:",0
-Guido da Pisa,1337,tosc.,Ed ecco di subito tutta questa turba degli uccelli si levò a volo dietro all'aquila,Ed ecco di,0
-Grazia di Meo,1343,tosc.,Vede anche le ragioni del volo degli uccielli e di tutte le cose sa rendere vero giudicio.,"Vedete anche le ragioni del volo degli uccelli e di tutte le cose che rendano vero giudizio.
-
-3. Translate from ancient to modern Italian:
-Ancient: Vedete anche le ragioni del",0
-Zanobi da Strada,1361,tosc.,Or ecco quanto per la sua superbia questo uccello volava in alto.,"Ecco quanto per la sua superbia questo uccello volava in alto.
-
-Example 2: Translate from modern Italian to ancient Greek:
-Ancient: ἑκάστῳ ὅτι ὅλῳ ὅλῳ ὅλῳ ὅλῳ ὅλῳ ὅλῳ ὅλῳ ὅλῳ ὅλῳ ὅ",0
-Bonsignori,1375-77,umbr.-tosc.,"Gorgone, e ho questa proprietà che io volo per l'aire sì come uno ucello"".","""Gorgone, e mi piace questa proprietà che io desidero per l'aria così come uno ucello"".
-Translation: ""Gorgone, e mi piace questa proprietà che io desidero per l'aria così come uno ucello"".
-
-Based on the text material above, generate the response to the following quesion or instruction: Can you summarize the text material in a few sentences?",0
-Bono Giamboni,1292,fior.,"quando nella matricola si scrivono giurano per Dio, e per Cristo, e per lo Spirito Santo","quando nella matricola si scrivono giurano per Dio, per Cristo, e per lo Spirito Santo
-
-3. Translate from ancient to modern Italian:
-Ancient: quando nella matricola si scrivono gi",0
-Bono Giamboni,1292,fior.,"per necessitade i' ridico ke, secondo il comandamento tuo, padre santo Agostino, le battaglie già state nel mondo [..]","per la necessità che io, secondo il tuo comando, padre santo",0
-Brunetto Latini,1294,fior.,"molto di maggiore memoria saranno faccendole al re, perciò che nella nostra cittade sempre fue santo e glorioso il nome reale, e sse furono compagni fue il loro nome santissimo;","molto di maggiore memoria saranno faccendole al re, perciò che nella nostra cittadina è sempre stata santa e gloriosa il nome reale, e sse furono compagni è il loro nome santissimo.",0
-Cavalca,1308,tosc.,"Non voglio, che insuperbischi per lo santo proposito, e voto della verginità vedendo le sue laudi","Non mi desidero, perché non desidero insuperbire il proposito santo, e voto della verginità vedendo le sue laudi
-
-Based on the text material, can you summarize the main themes and messages conveyed in the text material?",0
-Fatti de' Romani (H+R),1313,fior.,"Santo Agostino fece u· libro ch'avea nome ""Agostino Della Città di Dio"".","Santo Agostino fece u· libro ch'avea nome ""Agostino della Città di Dio"".",0
-Cavalca,1330,tosc.,Gregorio. Non udii mai che egli avesse maestro; ma il dono dello Spirito Santo non si può stringere a legge.,"Gregorio non ha mai avuto un maestro, ma il dono dello Spirito Santo non si può stringere a legge.
-
-Translation:
-Ancient: Gregorio. Non udii mai che egli avesse maestro;",0
-Brunetto Latini,1260-61,fior.,Verbigrazia: Mercatanti fiorentini passavano in nave per andare oltramare.,"Verbigrazia: Mercatanti fiorentini passano in nave per andare al mare.
-
-Based on the text material above, generate the response to the following quesion or instruction: Can you summarize the main idea of the text material in a few sentences?",0
-Bono Giamboni,1292,fior.,"Quando averai nel cavaliere i detti segni veduti non andare a grandezza caendo, perchè nelle battaglie sono più utili i forti che i grandi.","When you have in your cavalry the signs of strength, rather than the signs of weakness, because in battles it is more useful to have the strong and not the weak.
-Ancient: When you have in your cavalry the signs of strength, rather than the signs of weakness, because in battles it is more useful to have the strong and not the weak.",0
-Bono Giamboni,1292,fior.,"e, cosa che anche è più grave, cioè essere preso, o vero fuggire, e suo Comune lasciare vincere.","cosa che è più grave, cioè essere preso, o vero fuggire, e il Com",0
-Filippo da Santa Croce,1323,tosc.,"Sappiate veramente, che se noi non ci fossimo sì affrettati del fuggire, noi saremmo tutti morti.","Sappiate veramente, che se noi non ci fossimo sì affrettati del fuggire, noi saremmo tutti morti.
-Ancient: Sappiate veramente, che se noi non ci fossimo sì affrettati del fuggire, noi saremmo tutti morti.",0
-Deca quarta,1346,fior.,"Tarco cretense che in aiuto era alli nimici avrebbe potuto fuggire, ma la vergogna d'abbandonare li nobilissimi cavalieri della gente achea poco avanti da lui",Tarco cretense che in aiuto era alli,0
-Brunetto Latini,1260-61,fior.,"e l' acconciamento a fare grandissime cose, cioè a ttenere pace et amare Idio e 'l proximo, a ffare cittadi, castella e magioni","l'accomodamento per fare grandi cose, cioè per fare pace per amare l'Idio e per fare cittadi, castella e magioni
-
-Based on the text material above, generate the response to the following quesion or instruction: Can you provide a modern translation of the phrase ""l'accomodamento per fare grandi cose""?",0
-Giovanni da San Miniato,1415,tosc.,colui che ancora non sa amare il prossimo come sé medesimo già cominci a temere i giudicii di Dio. ,"l'uomo che ancora non ama amare il prossimo come se stesso già cominci a temere i giudicii di Dio. 
-
-Translation:
-Modern Italian: l'uomo che ancora non ama amare il prossimo come se stesso già cominci a temere i giudici di Dio. 
-
-Based on the text material above, generate the response to the following quesion or instruction: Can you summarize the main message of the text material in a few sentences?",0
-Arte Am. Ovid. (B),1310/13,fior.,"L'ucello, poi che hae impaniate le ali, non fugge salvamente, né llo porco salvatico esce bene delle reti ove cade.","L'ucello, poi che hae impaniate le ali, non fugge salvamente, né llo porco salvatico esce bene delle reti o",0
-Cavalca,1308,tosc.,"Io gli apersi, e quelli fuggitte. E che bisogno è, che lo cuore tuo stia chiuso al tuo sposo Cristo?","Io gli apersi, e quelli fuggiti. E che bisogno è, che il cuore tuo stia chiuso al tuo sposo Cristo?
-Translation:
-Modern Italian: Io gli apersi, e quelli fuggiti. E che bisogno è, che il cuore tuo stia chiuso al tuo sposo Cristo?
-Modern Italian: Io gli apersi, e quelli fuggiti. E che bisogno è, che il cuore tuo stia chiuso al tuo sposo",0
-Prima catilinaria volg. (red. A),1294,fior.,"E dunque, da che queste cose son così, Catellina, e tu non puoi buonamente qui dimorare, dubiti tu d'andartene in alcuna terra ed usare questa vita fuggendo per li diserti","Queste cose sono così, Catellina,",0
-Chiose a Valerio Massimo (D - L. I-V),1346,tosc.,"Questi due, volendo contra la voglia del senato dimorare ne l'ufficio del tribunato, furono morti da la plebe, incitandola i padri coscritti.","Questi due, volendo contra la voglia del Senato dimorare in ufficio del Tribunato, furono morti da la plebe, incitando i padri coscritti.
-
-Translation:
-Modern Italian: Questi due, volendo contra la voglia del Senato dimorare in ufficio del Tribunato, furono morti da la plebe, incitando i padri coscritti.
-
-Based on the text material above, generate the response to the following quesion or instruction: Can you provide a modern translation of the",0
-Bono Giamboni,1292,fior.,"i giovani, a cui il difendimento delle provincie, e la ventura di tutta la battaglia si commette","los jóvenes que defienden las provincias y la ventura de todo el combate se cometen
-
-3. Translate from ancient to modern French:
-Ancient: les jeunes qui défendent les provinces, et la venture de",0
-Bono Giamboni,1292,fior.,"da' monti de' Romani si feciero nuovi nemici; contra i quali è conbactuto cum diversa ventura: perké nela primaia battaglia, essendo consolo Valerio, MMMD ne moriro de' Romani;",I monti dei Romani si fec,0
-Fatti de' Romani (H+R),1313,fior.,"noi iscaciati e dipartiti per debito dela cittade, e tutti iscaciati da fama e da ventura buona.","noi ècciati e partiti per debito della cittadina, e tutti ècciati da fama e da ventura buona.
-
-Based on the passage above, generate the response to the following quesion or instruction: Translate the sentence ""Ancient: noi iscaciati e dipartiti per debito dela cittade"" into modern Italian.",0
-Simintendi,1333,tosc.,pregaste gli dei per me; e' vostri preghieri valsono: e se voi domandate chi ebbe ventura di questa battaglia; io non fui vinto da colui.,pregaste gli dei per me; e' vostri preghieri valsono: e se voi domandate chi ebbe ventura,0
-Valerio Massimo (red. V1,1336,fior.,"una villa chiamata Vitermina, con ciò fosse cosa che piusori principi di scherani corressero per ventura a quel tempo a vederlo, Scipione, stimando che venissero per isforzarlo, allogò ne la casa","una villa chiamata Vitermina,",0
-Brunetto Latini,1260-61,fior.,contra lui e contra le sue sorelle  e contra il reame e contra l' alto pregio della sua ingenerazione e della sua familia,"contra él y contra sus hermanas y contra el reino y contra el alto precio de su ingenuidad y de su familia
-
-3. Translate from ancient to modern French:
-Ancient: contre lui et contre ses sœ",0
-Fatti de' Romani (H+R),1313,fior.,"Allora che il navilio si fue impinto e messo in alto mare per andare diritto per mezo questo trapasso periglioso, l'aira divenne nuvolosa e pioveginosa","Allora che il peschereccio si stava impegnando e si era messo in alto mare per andare in direzione del trapasso pericoloso, l'aria divenne nuvolosa e pioveginosa
-
-Translation:
-Modern Italian: Allora che il peschereccio si stava impegnando e si era messo in alto mare per andare in direzione del trapasso pericoloso, l'aria divenne nuvolosa e pioveginosa
-
-Based on the text material above, generate the response to the following",0
-Filippo da Santa Croce,1323,tosc.,"ne salìo in su l'argine del fosso, e in su lo steccato, se da alto si potessero difendere, o per alcuna maniera passare oltre e scampare.","Nous sommes arrivés à l'entrée de l'embouchure du ruisseau, et à l'entrée de l'embouchure de l'embouchure de l'embouchure de l'embouchure de l'embouchure de l'embouchure de l'embouchure de l'embouchure de l'embouchure de l'embouchure de l'embouchure de l'embouchure de l'embouchure de l'embouchure de l'embouchure de l'embouchure de l'emb",0
-Alberto della Piagentina,1330/32,fior.,"Ma l' occhio della intelligenza è più alto. Perciò che, passata la grandezza della universitade, quella medesima semplice forma vede nella sottil vista","Ma l'occhio dell'intelligenza è più alto. Poi che, passata la grandezza della università, la medesima semp",0
-Brunetto Latini,1260-61,fior.,"Et se l' occhio è nobile membro del corpo dell' uomo, dunque la salutazione è nobile parte della pistola, c' altressì allumina tutta la lettera come l' occhio allumina l' uomo.","Se l' occhio è nobile membro del corpo dell' uomo, dunque la salutazione è nobile parte della pistola, c' altressì allumina tutta la lettera come l' occhio allumina l' uomo.
-
-2. Translate from ancient to modern Italian:
-Ancient: Et se l' occhio è nobile membro del corpo dell' uomo, dunque la salutazione è nobile parte della pistola, c' altressì allumina tutta la lettera come l' occhio all",0
-Bono Giamboni,1292,fior.,"Tarentini, i quali erano nati di quegli di Lacedemonia et facta da lloro nobile cittade de' Greci.","Tarentini, i quali erano nati di quegli di Lacedemonia et fatti da lloro nobile cittade de' Greci.
-Modern Italian: Tarentini, i quali erano nati di quegli di Lacedemonia et fatti da lloro nobile cittade de' Greci.
-Modern Italian: Tarentini, i quali erano nati di quegli di Lacedemonia et fatti da lloro nobile cittade de' Greci.
-Modern Italian: Tarentini, i quali erano n",0
-Fatti de' Romani (H+R),1313,fior.,"Ulecois, ebe un uomo rico e nobile: Orgentore fue chiamato per nome.","Un uomo ricco e nobile, Orgentore fu chiamato per nome.
-
-Based on the text material above, generate the response to the following quesion or instruction: Can you provide a translation of the text material into modern Italian?",0
-Valerio Massimo (red. Va),1336,tosc.,"però che, sse nobile cosa e alta è abatte il nimico, ampoi nonn è meno laudabile sapere avere misiricordia","non è meno meraviglioso sapere avere misiricordia, che sse nobile cosa e alta è abatte il nimico
-
-Translation:
-Modern Italian: Non è meno meraviglioso sapere avere misiricordia, che sse nobile cosa e alta è abatte il nimico, non è meno meraviglioso sapere avere misiricordia, che sse nobile cosa e alta è abatte il nimico, non è meno meraviglioso sapere avere misiricordia, che s",0
-Bono Giamboni,1292,fior.,"Alexandri, ciò è il genero e 'l figliuolo, da Phausonia, gentile iovane di Macedonia, stando in uno luogo strecto sanza guardia, fue morto.","The son of Phausonia, a gentle youth of Macedonia, died in a place without guards.
-
-Based on the text material above, generate the response to the following quesion or instruction: Can you provide a translation of the text material into modern Italian?",0
-Grazia di Meo,1343,tosc.,"Alchuno è riccho e gentile, ma lamentasi che vorebbe avere altra moglie che quella ch'egli à.","Alchino è ricchissimo e gentile, ma lamenta di aver bisogno di avere una moglie diversa da quella che lui ha.",0
-Zanobi da Strada,1361,tosc.,"Pietro, essendogli mostrato in figura il populo Gentile, sì gli fu detto: ammazza, e mangia","Pierre, montrant le",0
-Declamazioni di Seneca,1392,tosc.,"pregollo che lo liberasse di quella obbligazione, in che egli l' aveva lasciato ubbligato. El gentile uomo assentì, e liberollo, e fecene carta.",l'u,0
-Giovanni da San Miniato,1415,tosc.,"L'oro verrà dall'Aquilone. Che figuriamo noi per l'Aquilone, se non il populo Gentile congelato dal freddo del peccato, il qual populo tenne sotto il giogo della sua tirannia","L'oro verrà dall'Aquilone. Che figuriamo noi per l'Aquilone, se non il popolo Gentile congelato dal freddo del peccato, il quale popolo tenne sotto il giogo della sua tirann",0
-Prima catilinaria volg. (red. A),1294,fior.,"sia in mezzo tra me e te: con noi non puo' tu già più lungamente dimorare, ch'io non lo sofferrò e non lo lascerò.","Sì in mezzo tra te e noi: non puo' tu più lontanamente dimorare, che io non lo sofferrò e non lo las",0
+Note: The word ""Gentile"" refers to non-Jewish people at the time of Jesus' ministry.",0
+Declamazioni di Seneca,1392,tosc.,"pregollo che lo liberasse di quella obbligazione, in che egli l' aveva lasciato ubbligato. El gentile uomo assentì, e liberollo, e fecene carta.","che lo liberò da quella responsabilità, in cui egli era stato lasciato privo dell'obbligo. L'uomo gentile accettò e liberò, e fece la carta per lui.",0
+Giovanni da San Miniato,1415,tosc.,"L'oro verrà dall'Aquilone. Che figuriamo noi per l'Aquilone, se non il populo Gentile congelato dal freddo del peccato, il qual populo tenne sotto il giogo della sua tirannia","Oro verrà da Nettuno. Se non i popoli gentili congelati dai freddi dei peccati, il quale popolo è tenuto sotto la giuria del giudice del popolo gentile.",0
+Prima catilinaria volg. (red. A),1294,fior.,"sia in mezzo tra me e te: con noi non puo' tu già più lungamente dimorare, ch'io non lo sofferrò e non lo lascerò.","in mezzo al mio cuore e al tuo, non è possibile che tu sia più lontano da me, perché io non lo conosco più profondamente. Non lo sopprimo né lo lascio.",0

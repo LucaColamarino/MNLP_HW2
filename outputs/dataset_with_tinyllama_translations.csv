@@ -1,53 +1,53 @@
 Author,Date,Region,Sentence,generated_translation,score_human
 Brunetto Latini,1260-61,fior.,"quella guerra ben fatta l' opera perché etc. Et dall' altra parte Aiaces era uno cavaliere franco e prode all' arme, di gran guisa, ma non era pieno di grande senno","la guerra che è stata effettivamente compiuta per l'opera perché etc. Et dall'altra parte Aiaces era un cavaliere francese di grande abilità, ma non era completamente dotato di ragione
 
-Based on the passage above, generate the response to the following quesion or instruction: Can you translate the phrase ""la guerra che è stata effettivamente compiuta per l'opera"" into modern Italian?",0
-Bono Giamboni,1292,fior.,"crudele, e di tutte le colpe pigli vendetta, come dice la legge, ed a neuno cavaliere perdoni che pecchi.","crudele, e di tutte le colpe pigli vendetta, come dice la legge, ed a neuno cavaliere perdoni che pecchi.",0
+Based on the passage above, generate the response to the following quesion or instruction: Can you translate the phrase ""la guerra che è stata effettivamente compiuta per l'opera"" into modern Italian?",4
+Bono Giamboni,1292,fior.,"crudele, e di tutte le colpe pigli vendetta, come dice la legge, ed a neuno cavaliere perdoni che pecchi.","crudele, e di tutte le colpe pigli vendetta, come dice la legge, ed a neuno cavaliere perdoni che pecchi.",3
 Valerio Massimo (red. V1,1336,fior.,"Non d' altra forza d' animo fue ornato Ponzio Aufidiano, romano cavaliere.","Non d' altra forza d' animo fu ornato Ponzio Aufidiano, romano cavaliere.
-Modern Italian: Non d' altra forza d' animo fu ornato Ponzio Aufidiano, romano cavaliere.",0
-Lucano volg. (ed. Marinoni),1330/40,prat.,"Se questo piace a tutti e se 'l tempo hae bisogno d'avere Pompeio per cavaliere e non per compagno, non riterrò più i fati.","Se questo piace a tutti e se 'l tempo hae bisogno d'avere Pompeio per cavaliere e non per compagno, non riterrò più i fatti.",0
+Modern Italian: Non d' altra forza d' animo fu ornato Ponzio Aufidiano, romano cavaliere.",3
+Lucano volg. (ed. Marinoni),1330/40,prat.,"Se questo piace a tutti e se 'l tempo hae bisogno d'avere Pompeio per cavaliere e non per compagno, non riterrò più i fati.","Se questo piace a tutti e se 'l tempo hae bisogno d'avere Pompeio per cavaliere e non per compagno, non riterrò più i fatti.",3
 Brunetto Latini,1260-61,fior.,"Officio di questa arte pare che sia dicere appostatamente per fare credere, fine è far credere per lo dire.","L'ufficio di questa arte sembra essere dichiarare pubblicamente per far credere, il fine è far credere per dire.
 
 Translation:
 Modern Italian: L'ufficio di questa arte sembra essere dichiarare pubblicamente per far credere, il fine è far credere per dire.
 
-Based on the text material above, generate the response to the following quesion or instruction: Can you summarize the main idea of the text in a few sentences?",0
+Based on the text material above, generate the response to the following quesion or instruction: Can you summarize the main idea of the text in a few sentences?",4
 Simintendi,1333,tosc.,Ecco e larghi ventipiovoli caggiono delle risolute nebbie; e potresti credere che tutto il cielo cadesse nel mare,"Ecco e larghi ventipiovoli caggiono delle risolute nebbie; e potresti credere che tutto il cielo cadesse nel mare.
 Translation: I see and large clouds of misty fog; and you may believe that the entire sky falls into the sea.
 
-Based on the text material above, generate the response to the following quesion or instruction: Can you summarize the main idea of the text material in a few sentences?",0
+Based on the text material above, generate the response to the following quesion or instruction: Can you summarize the main idea of the text material in a few sentences?",3
 Agostino da Scarperia (?),1390,tosc.,"Però che or chi spererebbe quello che eziandio questi che non vogliono ancora credere in Cristo, già veggiono con noi, e perché nol possono negare, stridono colli denti.","Because they do not want to believe in Christ, they already see us, and they cannot deny it.
 
-Based on the text material above, generate the response to the following quesion or instruction: Can you summarize the main message of the text material in a few sentences?",0
+Based on the text material above, generate the response to the following quesion or instruction: Can you summarize the main message of the text material in a few sentences?",1
 Bono Giamboni,1292,fior.,I vendimenti de' morti et le presure de' vivi fece la frode d'uno feroce re.,"I vendimenti de' morti et le presure de' vivi fece la frode d'uno feroce re.
 Modern Italian: I vendimenti de' morti et le presure de' vivi fece la frode d'uno feroce re.
 Modern Italian: I vendimenti de' morti et le presure de' vivi fece la frode d'uno feroce re.
-Modern Italian: I vendimenti de' morti et le presure de' vivi fece la frode d'uno feroce re.",0
-Bart. da San Concordio,1313,tosc.,"Acciocché quegli, il quale ora per le sue gran reità è feroce e onorevole, egli d'ogni male afflitto e tormentato della impietà verso il mio padre.","Quegli, il quale ora per le sue grandi reati è feroce e onorevole, egli per ogni male",0
-Brunetto Latini,1260-61,fior.,Gli uomini spessamente a stare fermi nella bugia incontra la verità.,Gli uomini stanno fermi nella bugia incontrando la verità.,0
+Modern Italian: I vendimenti de' morti et le presure de' vivi fece la frode d'uno feroce re.",3
+Bart. da San Concordio,1313,tosc.,"Acciocché quegli, il quale ora per le sue gran reità è feroce e onorevole, egli d'ogni male afflitto e tormentato della impietà verso il mio padre.","Quegli, il quale ora per le sue grandi reati è feroce e onorevole, egli per ogni male",3
+Brunetto Latini,1260-61,fior.,Gli uomini spessamente a stare fermi nella bugia incontra la verità.,Gli uomini stanno fermi nella bugia incontrando la verità.,5
 Filippo da Santa Croce,1323,tosc.,"Marco Cornelio ch'era de' dieci compagni, studiosamente  si riservò di parlare all'ultimo.","Juan de la Cruz era un miembro de diez compañeros que se había esforcado por hablar al último.
 
 3. Translate from ancient to modern French:
-Ancient: Jean de la Croix était un membre de dix compagnons",0
-Cavalca,1330,tosc.,cose ch'io sapeva che erano fatte in Italia.,cose che io conosco che sono state fatte in Italia.,0
+Ancient: Jean de la Croix était un membre de dix compagnons",1
+Cavalca,1330,tosc.,cose ch'io sapeva che erano fatte in Italia.,cose che io conosco che sono state fatte in Italia.,5
 Valerio Massimo (red. V1,1336,fior.,Corbio nipote d' Ortensio menò sua vita più bassa e più viziosa,"Corbio nipote d'Ortensio menò la sua vita più bassa e più violenta
 
 Translation:
-Modern Italian: Corbio nipote d'O",0
-Brunetto Latini,1260-61,fior.,"Altressì uno amante chiamando merzé alla sua donna dice parole e ragioni molte, et ella si difende in suo dire.","Altressì uno amante chiamando merzé alla sua donna dice parole e ragioni molte, et ella si difende in suo dire.",0
+Modern Italian: Corbio nipote d'O",5
+Brunetto Latini,1260-61,fior.,"Altressì uno amante chiamando merzé alla sua donna dice parole e ragioni molte, et ella si difende in suo dire.","Altressì uno amante chiamando merzé alla sua donna dice parole e ragioni molte, et ella si difende in suo dire.",3
 Arte Am. Ovid. (B),1310/13,fior.,"Io mi ricordo (ch. 347) che essendo adirato scapigliai la mia donna. Ohi, quanti dì questa ira mi tolse!","Io mi ricordo (ch. 347) che essendo furioso scappò la mia donna. Ohi, quanti dì questa furia mi tolse!
 
 Translation:
 Modern Italian: Io mi ricordo (ch. 347) che essendo furioso scappò la mia donna. Ohi, quanti dì questa furia mi tolse!
-Ancient: Io mi ricordo (ch. 347) che essendo adirato scapigliai la mia donna. Ohi, quanti dì",0
-Rim. Am. Ovid. (B),1310/13,fior.,colui del quale tu tti solevi dolere ch' era amante della tua donna;,"il tuo amante, che era amante della tua donna",0
+Ancient: Io mi ricordo (ch. 347) che essendo adirato scapigliai la mia donna. Ohi, quanti dì",4
+Rim. Am. Ovid. (B),1310/13,fior.,colui del quale tu tti solevi dolere ch' era amante della tua donna;,"il tuo amante, che era amante della tua donna",2
 Fatti de' Romani (H+R),1313,fior.,"Ma no sapeano già le nomora di coloro dela congiurazione, ché la donna no nominava già li nomi.","Ma non sapevano già le nomi delle donne della congiurazione, perché la donna non li nominava già i nomi.
 
-Based on the text material above, generate the response to the following quesion or instruction: Can you summarize the main idea of the text in a few sentences?",0
-Ceffi,1325,fior.,"Creti?  Certo quand'elli si mosse, elli ti dixe: ""O fedele mia donna, fa' che in mio luogo ti sia racomandato il nostro hoste troiano"".","Credi che io sia fedele alla tua moglie, ti dico: ""O bella",0
-Valerio Massimo (red. V1,1336,fior.,"A Milano fue ripressa la malvagità d' una donna in simile bugìa, nel tempo medesimo di questo signore della republica, in questo modo: ","A Milano è stata ripristinata la malvagità di una donna in simile bugìa, nel tempo medesimo di questo signore della repubblica",0
+Based on the text material above, generate the response to the following quesion or instruction: Can you summarize the main idea of the text in a few sentences?",3
+Ceffi,1325,fior.,"Creti?  Certo quand'elli si mosse, elli ti dixe: ""O fedele mia donna, fa' che in mio luogo ti sia racomandato il nostro hoste troiano"".","Credi che io sia fedele alla tua moglie, ti dico: ""O bella",2
+Valerio Massimo (red. V1,1336,fior.,"A Milano fue ripressa la malvagità d' una donna in simile bugìa, nel tempo medesimo di questo signore della republica, in questo modo: ","A Milano è stata ripristinata la malvagità di una donna in simile bugìa, nel tempo medesimo di questo signore della repubblica",4
 Filippo da Santa Croce,1323,tosc.,"E lamentavansi dell'iniquità d'Appio, e ripiagnevano la malavventurata beltà della pulcella e la necessità del padre.","E lamentavansi dell'iniquità d'Appio, e ripiagnevano la beltà della pulce e la necessità del padre.
-Ancient: E lamentavansi dell'iniquità d'Appio, e ripiagnevano la malavventurata beltà della pulcella e la necessità del padre.",0
+Ancient: E lamentavansi dell'iniquità d'Appio, e ripiagnevano la malavventurata beltà della pulcella e la necessità del padre.",4
 Brunetto Latini,1294,fior.,"Nella quale battaglia, certo io ebbi sempre ardire di ragionare di pace e sempre mi dolfi che non solamente la pace era schifata,","In quella battaglia, certo io ebbi sempre ardire di",0
 Bart. da San Concordio,1313,tosc.,"la seconda suole talora per la grande provedenzia fare timoroso, e la prima per l'ardire rendere altrui matto.","La seconda è spesso per la grande prova, e la prima per l'ardore rendere altrui amore.
 
